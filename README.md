@@ -1,4 +1,4 @@
-# Easy Python Projects for Beginners
+# Python Projects for Beginners
 
 This repository contains simple Python projects designed for beginners to practice basic programming concepts like:
 
